@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Nmounce/redux-store#readme",
   "dependencies": {
-    "concurrently": "^6.4.0"
+    "concurrently": "^6.4.0",
+    "react-redux": "^7.2.6"
   }
 }
